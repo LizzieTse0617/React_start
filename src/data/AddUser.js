@@ -11,12 +11,11 @@ const tempUser = {
 function saveUser(){
 
     //update tempUser with uid crypto.randomUUID()
-    let newId = self.crypto.randomUUID();
-    tempUser.uid.push( newId )
+    //let newId = self.crypto.randomUUID();
+    //tempUser.uid.push( newId )
     
+    //update tempUser with uid crypto.randomUUID()
     //call the function inside APP.js to add the new user
-
-    //saveUser(newUser) ??
     //clear the form
     //reset tempUser back to empty Strings
     
