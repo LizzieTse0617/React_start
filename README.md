@@ -1,3 +1,22 @@
+npx create-react-app ______
+
+cd ______
+
+npm start _________
+
+/src
+
+-App.js  (<div className=”App></div>)
+
+-App.css (empty)
+
+-index.js (remove webstate()
+
+-index.css
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
